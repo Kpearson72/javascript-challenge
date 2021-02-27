@@ -1,4 +1,4 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
+# JavaScript and DOM Manipulation
 ![ufo](images/ufo.png)
 
 ## Background
@@ -50,6 +50,8 @@ You can handle this... right? The planet Earth needs to know what we have found!
   5. `shape`
 
 ![UFO-Level-2](images/Screen%20Shot%202021-02-26%20at%208.46.10%20PM.png)
+
+**Checkout the complete** [UFO Sightings Website Here](https://kpearson72.github.io/UFO-Level-2/)!
 
 - - -
 
