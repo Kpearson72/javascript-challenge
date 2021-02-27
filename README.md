@@ -28,20 +28,20 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ### Level 1: Automatic Table and Date Search -- UFO-level-1
 
-* Create a basic HTML web page or use the [index.html](UFO-level-1/index.html) file provided (we recommend building your own custom page!).
+* Create a basic HTML web page or use the [index.html](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-1/index.html) file provided (we recommend building your own custom page!).
 
-* Using the [UFO dataset](UFO-level-1/static/js/data.js) provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
+* Using the [UFO dataset](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-1/static/js/data.js) provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
 
   * Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
 
-* Use a date form in your HTML document and write [JavaScript code](UFO-level-1/static/js/app.js) that will listen for events and search through the `date/time` column to find rows that match user input.
-![UFO-Level-1](images/Screen%20Shot%202021-02-26%20at%208.41.19%20PM.png)
+* Use a date form in your HTML document and write [JavaScript code](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-1/static/js/app.js) that will listen for events and search through the `date/time` column to find rows that match user input.
+![UFO-Level-1](images/Screen%20Shot%202021-02-26%20at%208.41.19%20PM.png) [ufo-level-1](https://github.com/Kpearson72/javascript-challenge/blob/main/images/Screen%20Shot%202021-02-26%20at%208.46.10%20PM.png)
 
 ### Level 2: Multiple Search Categories -- UFO-level-2
 
-* Complete all of Level 1 criteria and create a new [index.html](UFO-level-2/index.html)
+* Complete all of Level 1 criteria and create a new [index.html]
 
-* Using multiple `input` tags and/or select dropdowns, write [JavaScript code](UFO-level-2/static/js/app.js) so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+* Using multiple `input` tags and/or select dropdowns, write [JavaScript code](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-2/index.html)so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
   1. `date/time`
   2. `city`
@@ -49,7 +49,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
   4. `country`
   5. `shape`
 
-![UFO-Level-2](images/Screen%20Shot%202021-02-26%20at%208.46.10%20PM.png)
+![UFO-Level-2](images/Screen%20Shot%202021-02-26%20at%208.46.10%20PM.png) [ufo-level-2](https://github.com/Kpearson72/javascript-challenge/blob/main/images/Screen%20Shot%202021-02-26%20at%208.46.10%20PM.png)
 
 **Checkout the complete** [UFO Sightings Website Here](https://kpearson72.github.io/UFO-Level-2/)!
 
@@ -57,6 +57,6 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ### Dataset
 
-* [UFO Sightings Data](StarterCode/static/js/data.js)
+* [UFO Sightings Data](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-2/static/js/data.js)
 
 
