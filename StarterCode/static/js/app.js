@@ -69,6 +69,15 @@ function handleClick(){
     if (city){
         var filterValue = filterValue.filter(record => record.city===city);
     }
+    if (state){
+        var filterValue = filterValue.filter(record => record.state===state);
+    }
+    if (country){
+        var filterValue = filterValue.filter(record => record.country===country);
+    }
+    if (shape){
+        var filterValue = filterValue.filter(record => record.shape===shape);
+    }
     console.log(filterValue);
     tbody.html("");
     filterValue.forEach(processRecord);
@@ -77,7 +86,7 @@ function handleClick(){
 }
 
 // using on function in d3 to attach an event handler function to button
-button.on("click", handleClick)
+button.on("click", handleClick);
 
 // button.on("click", function(){
 //     clickCount ++;
