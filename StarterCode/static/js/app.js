@@ -60,6 +60,15 @@ function handleClick(){
     console.log(state);
     console.log(country);
     console.log(shape);
+    if (inputText){
+        var filterValue = tableData.filter(record => record.datetime===inputText);
+    }
+    console.log(filterValue);
+    tbody.html("");
+    filterValue.forEach(processRecord);
+    
+
+}
 
 // using on function in d3 to attach an event handler function to button
 button.on("click", handleClick)
