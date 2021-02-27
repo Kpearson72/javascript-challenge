@@ -1,5 +1,5 @@
 # JavaScript and DOM Manipulation
-![ufo](images/ufo.png)
+![ufo](images/alienship.png)
 
 ## Background
 
