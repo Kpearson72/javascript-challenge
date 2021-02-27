@@ -63,6 +63,12 @@ function handleClick(){
     if (inputText){
         var filterValue = tableData.filter(record => record.datetime===inputText);
     }
+    else{
+        var filterValue = tableData
+    }
+    if (city){
+        var filterValue = filterValue.filter(record => record.city===city);
+    }
     console.log(filterValue);
     tbody.html("");
     filterValue.forEach(processRecord);
