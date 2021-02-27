@@ -47,6 +47,36 @@ let inputCountry = d3.select("#country");
 let inputShape = d3.select("#shape");
 let clickCount = 0;
 
+// a callback-function which is triggered when the button filter table is clicked
+function handleClick(){
+    d3.event.preventDefault();
+    let inputText = inputDate.property("value");
+    let city = inputCity.property("value");
+    let state = inputState.property("value");
+    let country = inputCountry.property("value");
+    let shape = inputShape.property("value");
+    console.log(inputText);
+    console.log(city);
+    console.log(state);
+    console.log(country);
+    console.log(shape);
 
+// using on function in d3 to attach an event handler function to button
+button.on("click", handleClick)
+
+// button.on("click", function(){
+//     clickCount ++;
+//     console.log(`button click number ${clickCount}`);
+//     console.log(event.target);
+// });
+
+// // input field that changes based on a click
+// inputField.on('change', function (event){
+//     console.log(event.target);
+//     console.log(event.target.value);
+
+// })
+
+inputField.on("change", handleClick);
 
 
