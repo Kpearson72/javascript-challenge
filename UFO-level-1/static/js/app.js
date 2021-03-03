@@ -47,7 +47,7 @@ let clickCount = 0;
 // a callback-function which is triggered when the button filter table is clicked
 function handleClick(){
     d3.event.preventDefault();
-    let inputText = inputDate.property("value");
+    let inputText = inputDate.property("value").toLowerCase();
     
     console.log(inputText);
    
