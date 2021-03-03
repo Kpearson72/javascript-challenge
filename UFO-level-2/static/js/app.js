@@ -50,11 +50,11 @@ let clickCount = 0;
 // a callback-function which is triggered when the button filter table is clicked
 function handleClick(){
     d3.event.preventDefault();
-    let inputText = inputDate.property("value");
-    let city = inputCity.property("value");
-    let state = inputState.property("value");
-    let country = inputCountry.property("value");
-    let shape = inputShape.property("value");
+    let inputText = inputDate.property("value").toLowerCase();
+    let city = inputCity.property("value").toLowerCase();
+    let state = inputState.property("value").toLowerCase();
+    let country = inputCountry.property("value").toLowerCase();
+    let shape = inputShape.property("value").toLowerCase();
     console.log(inputText);
     console.log(city);
     console.log(state);
