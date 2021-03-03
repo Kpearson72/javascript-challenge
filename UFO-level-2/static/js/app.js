@@ -39,6 +39,9 @@ function processRecord(record){
 // getting a reference to the button on the page with the id `filter-btn`
 let button = d3.select("#filter-btn");
 
+// select the form
+let form = d3.select("#form")
+
 // getting a reference to the date/time, city, state, country and shape input element with the class set to `form-control`
 let inputDate = d3.select("#datetime");
 let inputCity = d3.select("#city");
@@ -87,6 +90,7 @@ function handleClick(){
 
 // using on function in d3 to attach an event handler function to button
 button.on("click", handleClick);
+form.on("submit",handleClick);
 
 // button.on("click", function(){
 //     clickCount ++;
