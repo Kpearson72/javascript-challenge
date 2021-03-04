@@ -99,8 +99,7 @@ form.on("submit",handleClick);
 // });
 
 // // input field that changes based on a click
-// 
-.on('change', function (event){
+// inputField.on('change', function (event){
 //     console.log(event.target);
 //     console.log(event.target.value);
 
