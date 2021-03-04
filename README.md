@@ -34,14 +34,14 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
   * Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
 
-* Use a date form in your HTML document and write [JavaScript code](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-1/static/js/app.js) that will listen for events and search through the `date/time` column to find rows that match user input.
+* Use a date form in your HTML document and write [JavaScript code](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-1/static/js/app.js) that will listen for events and search through the `date/time` column to find rows that match user input. Check out the complete UFO-level-1 [ufo-level-1](https://kpearson72.github.io/UFO-Level-1/)
 ![UFO-Level-1](images/Screen%20Shot%202021-02-26%20at%208.41.19%20PM.png) 
 
 ### Level 2: Multiple Search Categories -- UFO-level-2
 
 * Complete all of Level 1 criteria and create a new [index.html]
 
-* Using multiple `input` tags and/or select dropdowns, write [JavaScript code](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-2/index.html)so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+* Using multiple `input` tags and/or select dropdowns, write [JavaScript code](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-2/index.html) so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
   1. `date/time`
   2. `city`
@@ -49,9 +49,10 @@ You can handle this... right? The planet Earth needs to know what we have found!
   4. `country`
   5. `shape`
 
+**Checkout the complete** [UFO Sightings Website Here](https://kpearson72.github.io/UFO-Level-2/)!
 ![UFO-Level-2](images/Screen%20Shot%202021-02-26%20at%208.46.10%20PM.png) 
 
-**Checkout the complete** [UFO Sightings Website Here](https://kpearson72.github.io/UFO-Level-2/)!
+
 
 - - -
 
