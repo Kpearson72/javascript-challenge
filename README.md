@@ -13,19 +13,6 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ## Your Task
 
-### Before You Begin
-
-1. Create a new repository for this project called `javascript-challenge`. 
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the Javascript challenge. Use the folder names to correspond to the challenges: **UFO-level-1** and **UFO-level-2**.
-
-4. Add your **html** files to this folder as well as your static folder containing your javascript. This will be the main script to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
-
 ### Level 1: Automatic Table and Date Search -- UFO-Level-1
 
 * Create a basic HTML web page or use the [index.html](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-1/index.html) file provided (we recommend building your own custom page!).
@@ -34,7 +21,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
   * Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
 
-* Use a date form in your HTML document and write [JavaScript code](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-1/static/js/app.js) that will listen for events and search through the `date/time` column to find rows that match user input. Check out the complete[UFO-Level-1](https://kpearson72.github.io/UFO-Level-1/)
+* Use a date form in your HTML document and write [JavaScript code](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-1/static/js/app.js) that will listen for events and search through the `date/time` column to find rows that match user input. Check out the complete [UFO-Level-1](https://kpearson72.github.io/UFO-Level-1/)
   
 ![UFO-Level-1](images/Screen%20Shot%202021-02-26%20at%208.41.19%20PM.png) 
 
