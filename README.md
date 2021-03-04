@@ -26,7 +26,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 5. Push the above changes to GitHub or GitLab.
 
 
-### Level 1: Automatic Table and Date Search -- UFO-level-1
+### Level 1: Automatic Table and Date Search -- UFO-Level-1
 
 * Create a basic HTML web page or use the [index.html](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-1/index.html) file provided (we recommend building your own custom page!).
 
@@ -34,10 +34,11 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
   * Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
 
-* Use a date form in your HTML document and write [JavaScript code](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-1/static/js/app.js) that will listen for events and search through the `date/time` column to find rows that match user input. Check out the complete UFO-level-1 [ufo-level-1](https://kpearson72.github.io/UFO-Level-1/)
+* Use a date form in your HTML document and write [JavaScript code](https://github.com/Kpearson72/javascript-challenge/blob/main/UFO-level-1/static/js/app.js) that will listen for events and search through the `date/time` column to find rows that match user input. Check out the complete[UFO-Level-1](https://kpearson72.github.io/UFO-Level-1/)
+  
 ![UFO-Level-1](images/Screen%20Shot%202021-02-26%20at%208.41.19%20PM.png) 
 
-### Level 2: Multiple Search Categories -- UFO-level-2
+### Level 2: Multiple Search Categories -- UFO-Level-2
 
 * Complete all of Level 1 criteria and create a new [index.html]
 
@@ -49,7 +50,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
   4. `country`
   5. `shape`
 
-**Checkout the complete** [UFO Sightings Website Here](https://kpearson72.github.io/UFO-Level-2/)!
+**Checkout the complete** [UFO-Level-2](https://kpearson72.github.io/UFO-Level-2/)!
 ![UFO-Level-2](images/Screen%20Shot%202021-02-26%20at%208.46.10%20PM.png) 
 
 
